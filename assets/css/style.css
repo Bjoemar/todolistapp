@@ -1,0 +1,72 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+
+.task {
+	
+	height: 50px;
+	width: 500px;
+	border: 1px  solid skyblue; 
+	margin: auto;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+#taskgen {
+	text-align: center;
+}
+#test {
+	height: 40px;
+	width: 50%;
+	border-radius: 5px;
+	border:1px solid blue;
+}
+#generate {
+	height: 45px;
+	width: 10%;
+	font-size: 15px;
+	border:1px solid lightgreen;
+	background-color: white;
+	border-radius: 5px;
+}
+hr {
+	width: 50%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+.form {
+	height: 100%;
+	border: 1px solid gray;
+	width: 60%;
+	padding: 20px;
+
+	margin: auto;
+	text-align: center;
+}
+
+.taskrem {
+	height: 50px;
+	width: 12%;
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	border-radius: 5px;
+}
+
+.taskdone {
+	height: 50px;
+	width: 12%;
+	background-color: lightgreen;
+	color: white;
+	font-size: 20px;
+	border-radius: 5px;
+}
+.task {
+	font-size: 30px;
+}
+
+.thetask{
+	width: 100%;
+}
+
